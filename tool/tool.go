@@ -4,6 +4,6 @@ import (
 	"strings"
 )
 
-func doWork(arg string) string {
+func DoWork(arg string) string {
 	return strings.ToUpper(arg)
 }
